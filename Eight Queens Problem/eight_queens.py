@@ -1,3 +1,9 @@
+import numpy as np
+import random
+import time
+import matplotlib.pyplot as plt
+
+
 class EightQueens():
 
     """ Solving Eights Queen problem using Genetic Algorithm"""
